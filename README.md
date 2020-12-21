@@ -6,7 +6,7 @@ chmod 755 bbr.sh
 ./bbr.sh
 
 ```
-**一键测速脚本**
+**一键测试脚本bench.sh**
 ```
 wget -qO- bench.sh | bash
 
